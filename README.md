@@ -1,6 +1,6 @@
 # AR Pac-Man Game - ReadMe
 
-Welcome to the AR Pac-Man Game project repository! This repository contains the source code, assets, and documentation for the development of an augmented reality Pac-Man game built using Unity 2021 LTS and Vuforia.
+Welcome to the AR Pac-Man Game project repository! This repository contains the source code, assets, and documentation for the development of an augmented reality Pac-Man game built using Unity 2021 LTS and Vuforia(re-import if you clone the repo).
 
 ## Project Overview
 
